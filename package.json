@@ -42,7 +42,7 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "postcss": "^8.1.10",
-    "react": "^17.0.1",
+    "react": "^16.0.0",
     "react-collapsible": "^2.8.3",
     "react-confirm-alert": "^2.7.0",
     "react-countdown": "^2.3.2",
